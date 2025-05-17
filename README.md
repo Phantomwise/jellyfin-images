@@ -26,3 +26,5 @@ The repo does not contains all my custom Jellyfin thumbnails, only those based o
 Details about the fonts used are in the README of the relevant folder.
 
 The images that are not in the repo were made with random images found online whose license is unknown, which is why I couldn't upload them 😢
+
+You can find a list of various other custom thumbnails for Jellyfin made by various people here : https://github.com/Phantomwise/jellyfin-custom-thumbnails-collection
