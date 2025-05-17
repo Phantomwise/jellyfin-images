@@ -1,0 +1,11 @@
+**Original Image:**
+- Title: an empty theater with red curtains and seats
+- Author: Richard Heinen
+- Source: https://unsplash.com/photos/an-empty-theater-with-red-curtains-and-seats-25OeoEKoNP8
+- License: Unsplash License
+- License URL: https://unsplash.com/license
+
+**Modified Version:**
+- Modified by: Phantomwise
+- License: Unsplash License
+- License URL: https://unsplash.com/license
