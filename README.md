@@ -28,3 +28,11 @@ Details about the fonts used are in the README of the relevant folder.
 The images that are not in the repo were made with random images found online whose license is unknown, which is why I couldn't upload them to GitHub. You can find them here : https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/extra-thumbnails.md
 
 You can find a list of various other custom thumbnails for Jellyfin made by various people here : https://github.com/Phantomwise/jellyfin-custom-thumbnails-collection
+
+# Preview
+
+<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Classical-Music--28389374041_a86bd318bd_o.png?raw=true" alt="Classical Music" width="200">
+<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Concerts--pexels-psad-1749822.png?raw=true" alt="Concerts" width="200">
+<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Music--steve-harvey-Zci_QKWPCgc-unsplash.png?raw=true" alt="Music" width="200">
+<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Opera--28389374041_a86bd318bd_o--1.png?raw=true" alt="Opera" width="200">
+<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Theater--richard-heinen-25OeoEKoNP8-unsplash.png?raw=true" alt="Theater" width="200">
