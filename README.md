@@ -23,7 +23,7 @@ The XCF folder contains the Gimp files, you can edit them yourself if you want t
 
 The repo does not contains all my custom Jellyfin thumbnails, only those based on images that have a license allowing free use, modification and redistribution. Attributions and licenses for each image are in a file named `imagename-ATTRIBUTION-and-LICENSE.txt` located in the same place as the image. The modified version always keeps the original license because I don't want the headache of figuring which are share-alike and which aren't and of finding a new license compatible with the old one.
 
-Details about the fonts used are in the README of the relevant folder.
+You can find details about the fonts used [here](#fonts-used).
 
 The images that are not in the repo were made with random images found online whose license is unknown, which is why I couldn't upload them to GitHub. You can find them here : https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/extra-thumbnails.md
 
@@ -39,3 +39,14 @@ You can find a list of various other custom thumbnails for Jellyfin made by vari
     <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Opera--28389374041_a86bd318bd_o--1.png?raw=true" alt="Opera" width="200">
     <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Theater--richard-heinen-25OeoEKoNP8-unsplash.png?raw=true" alt="Theater" width="200">
 </div>
+
+# Fonts used
+
+- Good Timing by Raymond Larabie
+  - https://www.1001fonts.com/good-timing-font.html
+
+- Great Victorian by Dharma Type
+  - https://www.1001fonts.com/great-victorian-font.html
+
+- TypeWrong by Digital Graphic Labs
+  - https://www.1001fonts.com/typewrong-font.html
