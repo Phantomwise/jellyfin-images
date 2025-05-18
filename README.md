@@ -31,9 +31,11 @@ You can find a list of various other custom thumbnails for Jellyfin made by vari
 
 # Preview
 
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Classical-Music--28389374041_a86bd318bd_o.png?raw=true" alt="Classical Music" width="200">
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Concerts--pexels-psad-1749822--1.png?raw=true" alt="Concerts" width="200">
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Concerts--pexels-psad-1749822--2b.png?raw=true" alt="Concerts" width="200">
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Music--steve-harvey-Zci_QKWPCgc-unsplash.png?raw=true" alt="Music" width="200">
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Opera--28389374041_a86bd318bd_o--1.png?raw=true" alt="Opera" width="200">
-<img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Theater--richard-heinen-25OeoEKoNP8-unsplash.png?raw=true" alt="Theater" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Classical-Music--28389374041_a86bd318bd_o.png?raw=true" alt="Classical Music" width="200">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Concerts--pexels-psad-1749822--1.png?raw=true" alt="Concerts" width="200">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Concerts--pexels-psad-1749822--2b.png?raw=true" alt="Concerts" width="200">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Music--steve-harvey-Zci_QKWPCgc-unsplash.png?raw=true" alt="Music" width="200">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Opera--28389374041_a86bd318bd_o--1.png?raw=true" alt="Opera" width="200">
+    <img src="https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/Libraries/Theater--richard-heinen-25OeoEKoNP8-unsplash.png?raw=true" alt="Theater" width="200">
+</div>
