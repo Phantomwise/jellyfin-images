@@ -12,7 +12,7 @@ These thumbnails were made from random images found without a license so I didn'
 
 # Preview
 
-<img src="https://i.postimg.cc/SNHHzHjR/Concerts-dance-disco-dubstep-edm-wallpaper-f896fda8e0305c78c0fc619e1802a4ea.png" alt="Concerts" width="200">
+<img src="https://i.postimg.cc/SQCWPKd5/Concerts-dance-disco-dubstep-edm-wallpaper-f896fda8e0305c78c0fc619e1802a4ea.png" alt="Concerts" width="200">
 <img src="https://i.postimg.cc/d1WxQxzq/Documentaries-united-states-burbank-canon-burbank-silhouette-57dc26b80af783972135d4f9df8dbd6a.png" alt="Documentaries" width="200">
 <img src="https://i.postimg.cc/TP6StmVX/Music-Videos-pngtree-party-dance-neon-light-background-image-2120481.png" alt="Music Videos" width="200">
 <img src="https://i.postimg.cc/jKM0HF7L/Music-vinyl-music-wallpaper-02d172302da6bedb5a38d28520e8c9e2.png" alt="Music" width="200">
